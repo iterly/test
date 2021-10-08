@@ -1,4 +1,4 @@
 #忽略所有的文件
-*test
+*test.html
 #只忽略当前目录下的test文件
-/test
+/test.html
